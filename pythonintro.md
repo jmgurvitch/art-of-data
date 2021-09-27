@@ -3,18 +3,27 @@ You can access the `Python shell` by running `python3` in your terminal!
 I also recommend making a `sandbox.py` to test and check your answers.
 
 1. How do you initialize a variable in Python?
-1. How does Python distinguish between different variable types?
-1. Does Python check variable types **statically** or **dynamically**?
-1. What happens if you run a Python script and there is a bug?
-1. Convert the following snippet into one line:
+   var = some_initial_value
+2. How does Python distinguish between different variable types?
+   Python determines the variable type as it goes; any variable can be any type, but if it walks like an int and talks like an int, for example, then it's an int.
+3. Does Python check variable types **statically** or **dynamically**?
+   Python checks variable types dynamically: the type of the variable is determined only during runtime.
+4. What happens if you run a Python script and there is a bug?
+   It will run until it hits the error and then halt.
+5. Convert the following snippet into one line:
     ```py
     if (a and not b):
       return False
     else:
       return True
     ```
+    
+    ```py
+    return(not(a or b))
+    ```
 1. Explain the difference between `range(1,10)` and `range(1,10,2)`.
-1. Convert the following for-loop into a while-loop:
+   range is range(start, stop, step), where an undefined step defaults to 1, so the first expression generates a sequence from 1-10 with step 1, while the second generates the same sequence with step 2. 
+2. Convert the following for-loop into a while-loop:
     ```py
     for i in range(2, 20, 3):
       print(i)
