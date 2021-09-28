@@ -90,7 +90,16 @@ I also recommend making a `sandbox.py` to test and check your answers.
    ```
 
 11. `factorial(n)` returns the factorial of _n_ (written as `n!`)
-12. `stars(n)` prints a right triangle of stars with height and base _n_  
+
+   ```py
+   def factorial(n):
+      a = 1
+      for n in range(n,1,-1):
+         a *= n
+      return a
+   ```
+
+13. `stars(n)` prints a right triangle of stars with height and base _n_  
     ex: `stars(3)` should print:
     ```
     *
