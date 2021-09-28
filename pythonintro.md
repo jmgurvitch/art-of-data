@@ -66,10 +66,17 @@ I also recommend making a `sandbox.py` to test and check your answers.
    ```
 
 5. `xor(a,b)` returns whether _exactly_ one input is True
-6. `hello(n)` prints `"hello"` _n_ times
-7. `fraction(n)` prints the float representations of `1/2, 1/3, 1/4 ... 1/n`
-8. `factorial(n)` returns the factorial of _n_ (written as `n!`)
-9. `stars(n)` prints a right triangle of stars with height and base _n_  
+
+   ```py
+   def xor(a,b):
+      return(a + b == 1)
+   #True = 1 and False = 0, so the sum of one True and one False 1 + 0 = 1
+   ```
+
+7. `hello(n)` prints `"hello"` _n_ times
+8. `fraction(n)` prints the float representations of `1/2, 1/3, 1/4 ... 1/n`
+9. `factorial(n)` returns the factorial of _n_ (written as `n!`)
+10. `stars(n)` prints a right triangle of stars with height and base _n_  
     ex: `stars(3)` should print:
     ```
     *
