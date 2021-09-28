@@ -50,15 +50,26 @@ I also recommend making a `sandbox.py` to test and check your answers.
 
    ```py
    def add(x,y)
-      return(x + y)
+      return (x + y)
    ```
 
 3. `larger(x,y)` returns the larger number
-4. `xor(a,b)` returns whether _exactly_ one input is True
-5. `hello(n)` prints `"hello"` _n_ times
-6. `fraction(n)` prints the float representations of `1/2, 1/3, 1/4 ... 1/n`
-7. `factorial(n)` returns the factorial of _n_ (written as `n!`)
-8. `stars(n)` prints a right triangle of stars with height and base _n_  
+
+   ```py
+   def larger(x,y):
+         if(x>y):
+            return x
+         elif(x<y):
+            return y
+         else:
+            return "they are equal"
+   ```
+
+5. `xor(a,b)` returns whether _exactly_ one input is True
+6. `hello(n)` prints `"hello"` _n_ times
+7. `fraction(n)` prints the float representations of `1/2, 1/3, 1/4 ... 1/n`
+8. `factorial(n)` returns the factorial of _n_ (written as `n!`)
+9. `stars(n)` prints a right triangle of stars with height and base _n_  
     ex: `stars(3)` should print:
     ```
     *
