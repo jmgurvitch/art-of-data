@@ -38,12 +38,12 @@ I also recommend making a `sandbox.py` to test and check your answers.
     for i in range(2, 20, 3):
       print(i)
     ```
-    ```
-   i = 2
-   while(i <= 20):
+    ```py
+    i = 2
+    while(i <= 20):
        print(i)
        i+=3
-   ``` 
+    ``` 
       
     ### Write the following functions.
 1. `add(x,y)` returns the sum of `x` and `y`
