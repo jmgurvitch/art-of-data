@@ -3,6 +3,7 @@ You can access the `Python shell` by running `python3` in your terminal!
 I also recommend making a `sandbox.py` to test and check your answers.
 
 1. How do you initialize a variable in Python?
+   
    var = some_initial_value
 2. How does Python distinguish between different variable types?
    Python determines the variable type as it goes; any variable can be any type, but if it walks like an int and talks like an int, for example, then it's an int.
