@@ -47,12 +47,17 @@ I also recommend making a `sandbox.py` to test and check your answers.
       
     ### Write the following functions.
 1. `add(x,y)` returns the sum of `x` and `y`
-1. `larger(x,y)` returns the larger number
-1. `xor(a,b)` returns whether _exactly_ one input is True
-1. `hello(n)` prints `"hello"` _n_ times
-1. `fraction(n)` prints the float representations of `1/2, 1/3, 1/4 ... 1/n`
-1. `factorial(n)` returns the factorial of _n_ (written as `n!`)
-1. `stars(n)` prints a right triangle of stars with height and base _n_  
+
+   ```py
+   def add(x,y)
+   ```
+
+3. `larger(x,y)` returns the larger number
+4. `xor(a,b)` returns whether _exactly_ one input is True
+5. `hello(n)` prints `"hello"` _n_ times
+6. `fraction(n)` prints the float representations of `1/2, 1/3, 1/4 ... 1/n`
+7. `factorial(n)` returns the factorial of _n_ (written as `n!`)
+8. `stars(n)` prints a right triangle of stars with height and base _n_  
     ex: `stars(3)` should print:
     ```
     *
