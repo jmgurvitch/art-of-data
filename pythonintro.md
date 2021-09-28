@@ -5,12 +5,19 @@ I also recommend making a `sandbox.py` to test and check your answers.
 1. How do you initialize a variable in Python?
    
    var = some_initial_value
+   
 2. How does Python distinguish between different variable types?
+   
    Python determines the variable type as it goes; any variable can be any type, but if it walks like an int and talks like an int, for example, then it's an int.
+   
 3. Does Python check variable types **statically** or **dynamically**?
+   
    Python checks variable types dynamically: the type of the variable is determined only during runtime.
+   
 4. What happens if you run a Python script and there is a bug?
+   
    It will run until it hits the error and then halt.
+   
 5. Convert the following snippet into one line:
     ```py
     if (a and not b):
