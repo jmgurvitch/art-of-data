@@ -81,8 +81,16 @@ I also recommend making a `sandbox.py` to test and check your answers.
    ```
 
 9. `fraction(n)` prints the float representations of `1/2, 1/3, 1/4 ... 1/n`
-10. `factorial(n)` returns the factorial of _n_ (written as `n!`)
-11. `stars(n)` prints a right triangle of stars with height and base _n_  
+
+   ```py
+   def fraction(n):
+      for n in range(2, n):
+         frac = 1/(float(n))
+         print(str(frac))
+   ```
+
+11. `factorial(n)` returns the factorial of _n_ (written as `n!`)
+12. `stars(n)` prints a right triangle of stars with height and base _n_  
     ex: `stars(3)` should print:
     ```
     *
