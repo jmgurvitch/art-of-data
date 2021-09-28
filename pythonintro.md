@@ -106,3 +106,9 @@ I also recommend making a `sandbox.py` to test and check your answers.
     **
     ***
     ```
+
+   ```py
+   def stars(n):
+      for n in range(1,n+1):
+         print(n*"*")
+   ```
