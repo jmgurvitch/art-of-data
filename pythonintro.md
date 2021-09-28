@@ -30,12 +30,21 @@ I also recommend making a `sandbox.py` to test and check your answers.
     return(not(a or b))
     ```
 1. Explain the difference between `range(1,10)` and `range(1,10,2)`.
+   
    range is range(start, stop, step), where an undefined step defaults to 1, so the first expression generates a sequence from 1-10 with step 1, while the second generates the same sequence with step 2. 
+   
 2. Convert the following for-loop into a while-loop:
     ```py
     for i in range(2, 20, 3):
       print(i)
     ```
+    ```
+   i = 2
+   while(i <= 20):
+       print(i)
+       i+=3
+   ``` 
+      
     ### Write the following functions.
 1. `add(x,y)` returns the sum of `x` and `y`
 1. `larger(x,y)` returns the larger number
