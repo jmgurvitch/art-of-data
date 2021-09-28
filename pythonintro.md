@@ -50,6 +50,7 @@ I also recommend making a `sandbox.py` to test and check your answers.
 
    ```py
    def add(x,y)
+      return(x + y)
    ```
 
 3. `larger(x,y)` returns the larger number
