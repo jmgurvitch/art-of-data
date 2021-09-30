@@ -101,6 +101,7 @@ I also recommend making a `sandbox.py` to test and check your answers.
    or
     
    ```py
+   #this is a recursively defined function
    def factorial(n)
       if n == 0 or n == 1:
          return 1
@@ -121,4 +122,11 @@ I also recommend making a `sandbox.py` to test and check your answers.
       for n in range(1,n+1):
          print(n*"*")
    ```
-   
+   or
+   ```py
+   def stars(n):
+      for i in range(1, n + 2):
+         for j in range(i):
+            print("*", end = '')
+         print()
+   ```
