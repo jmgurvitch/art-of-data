@@ -98,7 +98,7 @@ I also recommend making a `sandbox.py` to test and check your answers.
          total *= i
       return total
    ```
-      or
+   or
     
    ```py
    def factorial(n)
