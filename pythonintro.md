@@ -98,7 +98,8 @@ I also recommend making a `sandbox.py` to test and check your answers.
          total *= i
       return total
    ```
-   or
+      or
+    
    ```py
    def factorial(n)
       if n == 0 or n == 1:
