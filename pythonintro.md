@@ -94,8 +94,8 @@ I also recommend making a `sandbox.py` to test and check your answers.
    ```py
    def factorial(n):
       total = 1
-      for n in range(n,1,-1):
-         total *= n
+      for i in range(n+1):
+         total *= i
       return total
    ```
    or
