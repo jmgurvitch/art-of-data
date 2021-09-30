@@ -93,10 +93,18 @@ I also recommend making a `sandbox.py` to test and check your answers.
 
    ```py
    def factorial(n):
-      a = 1
+      total = 1
       for n in range(n,1,-1):
-         a *= n
-      return a
+         total *= n
+      return total
+   ```
+   or
+   ```py
+   def factorial(n)
+      if n == 0 or n == 1:
+         return 1
+      else:
+         return n * factorial(n-1)
    ```
 
 13. `stars(n)` prints a right triangle of stars with height and base _n_  
@@ -112,3 +120,4 @@ I also recommend making a `sandbox.py` to test and check your answers.
       for n in range(1,n+1):
          print(n*"*")
    ```
+   
