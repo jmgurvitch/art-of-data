@@ -52,6 +52,8 @@ This worksheet is adapted from [Lisa Olivieri's](https://www.chc.edu/faculty/lis
 
 13. What is printed with this statement: `print(book)`? How is the information displayed?
 
+    Terminal prints ['Minor', 'Feelings', 'by', 'Cathy', 'Park', 'Hong'] 
+
 1. A veterinarian stores the names of each pet they examine.
 
     ```py
