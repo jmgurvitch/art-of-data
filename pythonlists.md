@@ -48,7 +48,7 @@ This worksheet is adapted from [Lisa Olivieri's](https://www.chc.edu/faculty/lis
     
 11. Explain how positive and negative **indexes** locate specific elements.
 
-    
+    Positive indices go forward through the list and count up from zero. Negative indices go backward through the list and count down from the list's last element.
 
 13. What is printed with this statement: `print(book)`? How is the information displayed?
 
