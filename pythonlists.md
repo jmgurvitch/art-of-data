@@ -10,7 +10,15 @@ This worksheet is adapted from [Lisa Olivieri's](https://www.chc.edu/faculty/lis
     story = ["A Hundred Ghosts Parade Tonight", "Xia Jia", 2012]
     ```
     1. How many **elements** does the list named `digits` contain?
-    1. What type of data is stored in each list?
+
+    10 elements
+    
+    3. What type of data is stored in each list?
+
+    digits: integers
+    title: strings
+    story: strings and integers
+    
 1. How would you define a **list**?
 
     ### Type and enter the following Python code:
@@ -19,12 +27,21 @@ This worksheet is adapted from [Lisa Olivieri's](https://www.chc.edu/faculty/lis
     print(book[0])
     ```
 1. What is printed for `book[0]`?
-1. What value in the list does `book[3]` represent?
-1. Write a line of code that prints the last value.
-1. What happens if you try to print `book[6]`? Why?
-1. What does `book[-1]` return?
-1. Explain how positive and negative **indexes** locate specific elements.
-1. What is printed with this statement: `print(book)`? How is the information displayed?
+
+    "Minor" is printed; it is the zeroth element of the list called book.
+
+3. What value in the list does `book[3]` represent?
+
+    It represents the fourth value: "Cathy"
+
+5. Write a line of code that prints the last value.
+
+    
+
+7. What happens if you try to print `book[6]`? Why?
+8. What does `book[-1]` return?
+9. Explain how positive and negative **indexes** locate specific elements.
+10. What is printed with this statement: `print(book)`? How is the information displayed?
 
 1. A veterinarian stores the names of each pet they examine.
 
