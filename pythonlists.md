@@ -52,7 +52,7 @@ This worksheet is adapted from [Lisa Olivieri's](https://www.chc.edu/faculty/lis
 
 13. What is printed with this statement: `print(book)`? How is the information displayed?
 
-    Terminal prints ['Minor', 'Feelings', 'by', 'Cathy', 'Park', 'Hong'] 
+    Terminal prints ['Minor', 'Feelings', 'by', 'Cathy', 'Park', 'Hong'], which is the entire list within its brackets.
 
 1. A veterinarian stores the names of each pet they examine.
 
@@ -66,7 +66,12 @@ This worksheet is adapted from [Lisa Olivieri's](https://www.chc.edu/faculty/lis
         for pet in pets:
             print(pet)
         ```
+        
+        Pet stores and then prints the 0th element, then the 1st element, until the last element
+        
     1. Does anything change if we change `pet` to `foo`?
+
+    No; foo is just another variable name
 
 ## Model B | Insertion and Deletion
 An athlete keeps track of how many minutes it takes for them to run a mile.
