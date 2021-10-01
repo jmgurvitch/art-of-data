@@ -36,12 +36,21 @@ This worksheet is adapted from [Lisa Olivieri's](https://www.chc.edu/faculty/lis
 
 5. Write a line of code that prints the last value.
 
-    
+    print(book[5])
 
 7. What happens if you try to print `book[6]`? Why?
-8. What does `book[-1]` return?
-9. Explain how positive and negative **indexes** locate specific elements.
-10. What is printed with this statement: `print(book)`? How is the information displayed?
+
+    There is no sixth element because we start at index 0, so terminal returns "IndexError: list index out of range"
+
+9. What does `book[-1]` return?
+
+    It returns the last element book[5] because when the computer goes from the zeroth element to the -1st element, it jumps to the end of the list.
+    
+11. Explain how positive and negative **indexes** locate specific elements.
+
+    
+
+13. What is printed with this statement: `print(book)`? How is the information displayed?
 
 1. A veterinarian stores the names of each pet they examine.
 
