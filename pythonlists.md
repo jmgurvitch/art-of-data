@@ -72,6 +72,7 @@ This worksheet is adapted from [Lisa Olivieri's](https://www.chc.edu/faculty/lis
     1. Does anything change if we change `pet` to `foo`?
 
     No; foo is just another variable name
+    
 
 ## Model B | Insertion and Deletion
 An athlete keeps track of how many minutes it takes for them to run a mile.
