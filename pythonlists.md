@@ -102,7 +102,23 @@ minute_miles = [8.4, 9.2, 8.1, 6.5, 6.1, 5.9, 7.4, 8.3, 6.2]
     The opposite of insert: clear the data in slot 2 (counting from 0), shift every element one slot down, and remove the final slot (which is now empty).
 
 11. Write a line of code that would delete the last record in the list.
-12. Explain what this line of code would do: `minute_miles.remove(8.1)`
-13. Write a line of code that would delete `8.3` from the list.
-14. What would happen if the same time appears in the list twice, and `remove()` was used? Does it remove both instances?
-15. What happens if you try to remove `3.3`?
+
+    `del minute_miles[8]`
+
+13. Explain what this line of code would do: `minute_miles.remove(8.1)`
+
+    Delete the first instance of 8.1 in the list.
+
+15. Write a line of code that would delete `8.3` from the list.
+
+    `minute_miles.remove(8.3)`
+
+17. What would happen if the same time appears in the list twice, and `remove()` was used? Does it remove both instances?
+
+    It removes only the first instance.
+
+18. What happens if you try to remove `3.3`?
+
+    3.3 is not in the list, so we receive the following error:
+    list.remove(x): x not in list
+
