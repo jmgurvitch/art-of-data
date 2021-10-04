@@ -11,11 +11,29 @@ story = {
 
 ## Access
 1. Describe what information the dictionary named `story` contains.
-1. What does `story['author']` return?
-1. How does Python know that `"Hao Jingfang"` is related to `author`? Where is that relationship defined?
-1. In the line `story['author']`, what does the value in the square brackets represent?
-1. Write a line of code to print the title of the story.
-1. How would you describe the **keys** and **values** of this dictionary?
+
+  Story contains the title string variable, the author string variable, and the published int variable.
+
+3. What does `story['author']` return?
+
+
+
+5. How does Python know that `"Hao Jingfang"` is related to `author`? Where is that relationship defined?
+
+
+
+7. In the line `story['author']`, what does the value in the square brackets represent?
+
+
+
+9. Write a line of code to print the title of the story.
+
+
+
+10. How would you describe the **keys** and **values** of this dictionary?
+
+
+
 
 ## Mutation
 1. Run this code: `story["words"] = 6359`, and then print `story`. What changes?
