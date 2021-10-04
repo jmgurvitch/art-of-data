@@ -16,33 +16,48 @@ story = {
 
 3. What does `story['author']` return?
 
-
+  Hao Jingfang
 
 5. How does Python know that `"Hao Jingfang"` is related to `author`? Where is that relationship defined?
 
-
+  The key author is defined as "Hao Jingfang"
 
 7. In the line `story['author']`, what does the value in the square brackets represent?
 
-
+  The value in the square brackets represents a key
 
 9. Write a line of code to print the title of the story.
 
-
+  print(story["title"])
 
 10. How would you describe the **keys** and **values** of this dictionary?
 
-
+  The keys of this directory are the labels (title, author, published) given to the variables, and the values are the information stored by the variables.
 
 
 ## Mutation
 1. Run this code: `story["words"] = 6359`, and then print `story`. What changes?
-1. Run this code: `story["title"] = "Folding Beijing"`. What changes?
-1. Describe what the assignment operator (`=`) does in the context of dictionaries.
-1. Write a line of code to add the key `"translator"` and value `"Ken Liu"` to `story`.
-1. Run this code: `del story['published']`. What happens?
-1. Write a line of code to change the value of a key `"B48"` to `15` in a dictionary named `classrooms`.
-1. Write a line of code to delete the entry with key `"B48"` in a dictionary named `classrooms`.
+
+  We have added a new key, words, which corresponds to the value 6359.
+
+3. Run this code: `story["title"] = "Folding Beijing"`. What changes?
+
+  The title value changes from "Invisible Planets" to "Folding Beijing"
+  
+5. Describe what the assignment operator (`=`) does in the context of dictionaries.
+
+  
+
+7. Write a line of code to add the key `"translator"` and value `"Ken Liu"` to `story`.
+
+  
+
+9. Run this code: `del story['published']`. What happens?
+
+  
+  
+11. Write a line of code to change the value of a key `"B48"` to `15` in a dictionary named `classrooms`.
+12. Write a line of code to delete the entry with key `"B48"` in a dictionary named `classrooms`.
 
 ## Iteration
 1. What gets printed in the following snippet of code?
@@ -51,8 +66,14 @@ story = {
       print(story)
     ```
 1. What is a better name for the variable than `x`?
-1. How do we iterate through a dictionary's values?
-1. Explain what is happening in the following snippet of code. Some useful terms are **tuple** and **unpacking**.
+  
+  
+
+3. How do we iterate through a dictionary's values?
+
+  
+
+5. Explain what is happening in the following snippet of code. Some useful terms are **tuple** and **unpacking**.
     ```py
     for (k,v) in story:
         print(k)
