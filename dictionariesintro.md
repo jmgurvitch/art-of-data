@@ -70,15 +70,20 @@ story = {
   author
   title
   
-  It iterates upward
+  It iterates upward.
   
 1. What is a better name for the variable than `x`?
   
-  
+  Keys
 
 3. How do we iterate through a dictionary's values?
 
+  ```py
+  for k, v in story.items():
+    print(k, v)
+  ```
   
+  items() takes story and makes a list of tuples, where each element is a key-value pair, such as `('title', 'Invisible Planets')`
 
 5. Explain what is happening in the following snippet of code. Some useful terms are **tuple** and **unpacking**.
     ```py
