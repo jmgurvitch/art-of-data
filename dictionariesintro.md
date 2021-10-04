@@ -79,7 +79,7 @@ story = {
 3. How do we iterate through a dictionary's values?
 
   ```py
-  for k, v in story.items():
+  for k, v in story.items(): #k and v are our placeholders for keys and variables. They can be named anything.
     print(k, v)
   ```
   
