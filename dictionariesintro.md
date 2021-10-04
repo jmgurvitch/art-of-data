@@ -46,15 +46,15 @@ story = {
   
 5. Describe what the assignment operator (`=`) does in the context of dictionaries.
 
-  
+  "=" assigns a value to a key.
 
 7. Write a line of code to add the key `"translator"` and value `"Ken Liu"` to `story`.
 
-  
+  Done
 
 9. Run this code: `del story['published']`. What happens?
 
-  
+  The key "published" is removed from the dictionary.
   
 11. Write a line of code to change the value of a key `"B48"` to `15` in a dictionary named `classrooms`.
 12. Write a line of code to delete the entry with key `"B48"` in a dictionary named `classrooms`.
@@ -63,7 +63,7 @@ story = {
 1. What gets printed in the following snippet of code?
     ```py
     for x in story:
-      print(story)
+      print(x)
     ```
 1. What is a better name for the variable than `x`?
   
