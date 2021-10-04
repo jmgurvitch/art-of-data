@@ -90,10 +90,13 @@ minute_miles = [8.4, 9.2, 8.1, 6.5, 6.1, 5.9, 7.4, 8.3, 6.2]
     minute_miles.append(6.7)
 
 5. What does `minute_miles.insert(2, 8.8)` do?
-6. Write a line of code that would place `6.0` at the beginning of the list.
-7. Explain what this line of code would do: `del minute_miles[2]`
-8. Write a line of code that would delete the last record in the list.
-9. Explain what this line of code would do: `minute_miles.remove(8.1)`
-10. Write a line of code that would delete `8.3` from the list.
-11. What would happen if the same time appears in the list twice, and `remove()` was used? Does it remove both instances?
-12. What happens if you try to remove `3.3`?
+    
+    Create a new element slot in position 2 (counting from 0), fill it with 8.8, and move all subsequent elements down by one element slot.
+
+7. Write a line of code that would place `6.0` at the beginning of the list.
+8. Explain what this line of code would do: `del minute_miles[2]`
+9. Write a line of code that would delete the last record in the list.
+10. Explain what this line of code would do: `minute_miles.remove(8.1)`
+11. Write a line of code that would delete `8.3` from the list.
+12. What would happen if the same time appears in the list twice, and `remove()` was used? Does it remove both instances?
+13. What happens if you try to remove `3.3`?
