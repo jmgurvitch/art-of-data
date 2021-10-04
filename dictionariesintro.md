@@ -65,6 +65,13 @@ story = {
     for x in story:
       print(x)
     ```
+    
+  published
+  author
+  title
+  
+  It iterates upward
+  
 1. What is a better name for the variable than `x`?
   
   
