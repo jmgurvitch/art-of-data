@@ -92,17 +92,12 @@ story = {
         print(v)
     ```
     We receive the error "too many values to unpack." We must change this into a list of tuples by doing story.items(). Then it prints
-    `published
-    
+    ```published
     2013
-    
     author
-    
     Hao Jingfang
-    
     title
-    
-    Invisible Planets`
+    Invisible Planets```
 
 ## Application
 1. Write a function `count()` that takes a list of strings as input and outputs a dictionary where each unique string is a key, and its count is the value. For example, `count(["hello", "hello", "world", "hello"])` should return `{"hello": 3, "world": 1}`
