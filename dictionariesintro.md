@@ -102,7 +102,15 @@ story = {
 ## Application
 1. Write a function `count()` that takes a list of strings as input and outputs a dictionary where each unique string is a key, and its count is the value. For example, `count(["hello", "hello", "world", "hello"])` should return `{"hello": 3, "world": 1}`
 
-
   ```py
-  
+  def count(l):
+      d = {}
+      for element in l:
+            if item in d.keys():
+                  #take the dictionary value stored with that key and add one to it. we don't have duplicate keys because dictionaries prohibit them.
+                  d[item] = d[item] + 1
+            else:
+                  #create a new key item and set its value to 1
+                  d[item] = 1
+      return d
   ```
