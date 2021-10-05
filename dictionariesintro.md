@@ -93,10 +93,15 @@ story = {
     ```
     We receive the error "too many values to unpack." We must change this into a list of tuples by doing story.items(). Then it prints
     `published
+    
     2013
+    
     author
+    
     Hao Jingfang
+    
     title
+    
     Invisible Planets`
 
 ## Application
