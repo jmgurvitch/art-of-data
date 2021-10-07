@@ -19,9 +19,21 @@ with open("datasets/favorite_colors.csv", "r") as f:
 ```
 
 1. What is printed when you run this code?
-1. Explain the syntax of the `open()` function.
-1. Explain what you would need to change if you wanted to _write_ to the file.
-1. Explain why `open()` is called inside a **`with` statement**.
+
+  <_io.TextIOWrapper name='favorite_colors.csv' mode='r' encoding='UTF-8'>
+
+3. Explain the syntax of the `open()` function.
+
+  It takes the path and filename of the file and then specifies whether we are reading or writing the file.
+
+5. Explain what you would need to change if you wanted to _write_ to the file.
+
+  
+
+7. Explain why `open()` is called inside a **`with` statement**.
+
+  
+  
 
 ## Model C
 Examine and run the following snippet of code.
