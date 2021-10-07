@@ -49,9 +49,22 @@ with open("datasets/favorite_colors.csv", "r") as f:
 ```
 
 1. What **module** is being imported? Link to the official documentation for this module.
-1. What does `csv.reader()` return?
-1. What is printed when you run this code?
-1. Explain how to interpret the for-loop and `row` in terms of the `csv` file.
+
+  A .csv file is a module in python, so we are importing a csv module.
+  https://docs.python.org/3/library/csv.html
+
+3. What does `csv.reader()` return?
+
+  
+
+5. What is printed when you run this code?
+
+  
+
+7. Explain how to interpret the for-loop and `row` in terms of the `csv` file.
+
+  
+
 
 ## Model D
 Examine and run the following snippet of code.
