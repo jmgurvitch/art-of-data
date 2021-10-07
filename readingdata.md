@@ -3,7 +3,13 @@ Download `favorite_colors.csv` and put it in a folder named `datasets` in your A
 
 ## Model A
 1. What does `csv` stand for?
-1. What information does `favorite_colors.csv` contain?
+
+  Comma-separated values
+
+3. What information does `favorite_colors.csv` contain?
+
+  The grade of the respondent and their favorite color
+
 
 ## Model B
 Examine and run the following snippet of code.
