@@ -28,11 +28,14 @@ with open("datasets/favorite_colors.csv", "r") as f:
 
 5. Explain what you would need to change if you wanted to _write_ to the file.
 
-  
+  ```py
+  with open("datasets/favorite_colors.csv", "w") as f:
+  print(f)
+  ```
 
 7. Explain why `open()` is called inside a **`with` statement**.
 
-  
+  `open` opens a connection to a desired file, and when we have received the information we want, so that we don't have to manually close the connection, we put it inside of a 'with block' in the code, which will close our connection to the file as soon as we exit the 'with block' in the code.
   
 
 ## Model C
