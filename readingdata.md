@@ -55,8 +55,8 @@ with open("datasets/favorite_colors.csv", "r") as f:
 
 3. What does `csv.reader()` return?
 
+  It returns a list of the lines in the .csv file.
   
-
 5. What is printed when you run this code?
 
   
