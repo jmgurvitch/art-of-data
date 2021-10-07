@@ -20,7 +20,7 @@ with open("datasets/favorite_colors.csv", "r") as f:
 
 1. What is printed when you run this code?
 
-  <_io.TextIOWrapper name='favorite_colors.csv' mode='r' encoding='UTF-8'>
+  `<_io.TextIOWrapper name='favorite_colors.csv' mode='r' encoding='UTF-8'>`
 
 3. Explain the syntax of the `open()` function.
 
