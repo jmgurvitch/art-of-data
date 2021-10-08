@@ -59,11 +59,11 @@ with open("datasets/favorite_colors.csv", "r") as f:
   
 5. What is printed when you run this code?
 
-  
+  It prints the whole .csv file row by row.
 
 7. Explain how to interpret the for-loop and `row` in terms of the `csv` file.
 
-  
+  It runs through every single row and prints it out.
 
 
 ## Model D
