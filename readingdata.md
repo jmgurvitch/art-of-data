@@ -77,8 +77,17 @@ with open("datasets/favorite_colors.csv", "r") as f:
 ```
 
 1. What does `csv.DictReader()` return, and how is this different from `csv.reader()`?
-1. What is printed when you run this code?
-1. Explain how to interpret the for-loop and `row` in terms of the `csv` file.
+
+  It retrieves the data of each row in the .csv file and maps it to key-value pairs in a dictionary. The first row is used as the key names, and the subsequent rows are values.
+
+3. What is printed when you run this code?
+
+  It prints two key-value pairs for each row in the .csv file of the following format: `{'grade': '11', 'favorite_color': 'blue'}`
+
+5. Explain how to interpret the for-loop and `row` in terms of the `csv` file.
+
+  
+  
 
 ## Application
 Write a Python file to analyze `favorite_colors.csv` and create a **nested dictionary** that contains the answers to the following questions:
