@@ -86,7 +86,7 @@ with open("datasets/favorite_colors.csv", "r") as f:
 
 5. Explain how to interpret the for-loop and `row` in terms of the `csv` file.
 
-  
+  The for loop runs through every row of the .csv file, taking the first row as the key names and matching up all subsequent rows (values) to their corresponding key names.
   
 
 ## Application
