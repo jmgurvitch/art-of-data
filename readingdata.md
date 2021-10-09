@@ -92,4 +92,4 @@ with open("datasets/favorite_colors.csv", "r") as f:
 ## Application
 Write a Python file to analyze `favorite_colors.csv` and create a **nested dictionary** that contains the answers to the following questions:
 1. How many students in 9th grade put blue as their favorite color?
-1. How many students in total put yellow as their favorite color?
+3. How many students in total put yellow as their favorite color?
