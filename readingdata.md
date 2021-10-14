@@ -93,3 +93,31 @@ with open("datasets/favorite_colors.csv", "r") as f:
 Write a Python file to analyze `favorite_colors.csv` and create a **nested dictionary** that contains the answers to the following questions:
 1. How many students in 9th grade put blue as their favorite color?
 3. How many students in total put yellow as their favorite color?
+
+```py
+import csv
+
+def makeNestedDict(filePath):
+      with open(filePath, "r") as f:
+            data = csv.DictReader(f)
+            d = {"total" : {}} #we know that "total" will be there for every nested dict, so we can make it from the get go
+            for row in data:
+                  if row["grade"] not in d.keys(): #if new grade
+                        d[row["grade"]] = {row["favorite_color"] : 1} #make a new dict and set corresponding grade/color entry to 1
+                  else: #if we've seen the grade before
+                        if row["favorite_color"] not in d[row["grade"]].keys(): #if we haven't seen a certain grade/color combo before (e.g. grade 10 and red)
+                              d[row["grade"]][row["favorite_color"]] = 1
+                        else:
+                              d[row["grade"]][row["favorite_color"]] += 1
+      return d
+
+'''d["total"] = {}
+for key in list(d.keys())[1]:
+      d["total"][key] = 0
+      #for grade in d.keys():
+            #if grade != "total":
+                  #d["total"][key] += d[grade][key]
+                  #print(d[grade])'''
+
+print(makeNestedDict("favorite_colors.csv"))
+```
