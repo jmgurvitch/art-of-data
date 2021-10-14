@@ -78,7 +78,7 @@ with open("datasets/favorite_colors.csv", "r") as f:
 
 1. What does `csv.DictReader()` return, and how is this different from `csv.reader()`?
 
-  It retrieves the data of each row in the .csv file and maps it to key-value pairs in a dictionary. The first row is used as the key names, and the subsequent rows are values.
+  DictReader() returns a DictReader object where each row of the .csv is an element stored as a dictionary. reader() returns a reader object where each row of the .csv is stored as a list.
 
 3. What is printed when you run this code?
 
