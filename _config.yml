@@ -15,8 +15,6 @@ author: Justin Gurvitch
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
