@@ -30,8 +30,6 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-markdown: GFM
-
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
