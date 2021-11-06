@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Meta Analysis
-subtitle: “There are three kinds of lies: Lies, Damned Lies, and Statistics” - Benjamin Disraeli
+subtitle: “There are three kinds of lies: Lies, Damned Lies, and Statistics” Benjamin Disraeli
 cover-img: assets/img/digimon-masthead.jpg
 gh-repo: jmgurvitch/art-of-data
 tags: [labs]
