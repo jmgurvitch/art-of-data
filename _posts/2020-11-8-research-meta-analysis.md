@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lab 1 - Digimon
-subtitle: It's not Pokémon, but it's a start.
+title: Research Meta Analysis
+subtitle: “There are three kinds of lies: Lies, Damned Lies, and Statistics” - Benjamin Disraeli
 cover-img: assets/img/digimon-masthead.jpg
 gh-repo: jmgurvitch/art-of-data
 tags: [labs]
