@@ -13,7 +13,9 @@ comments: true
 
 1. What are the null and alternative hypotheses?
 
+The null hypothesis stated that e-cigarettes were no more effective than nicotine patches at helping smokers to quit.
 
+The alternative hypothesis stated that cigarettes were more effective than nicotine patches at helping smokers to quit.
 
 3. Who is collecting and analyzing this data?
 
@@ -41,4 +43,4 @@ This study was funded by the Health Research Council of New Zealand, a governmen
 
 9. Do you think publish or perish had an effect on this study?
 
-
+Although one could argue that the publish-or-perish mentality pervades all current scientific research, this study appears minimally susceptible to it, if at all. Most importantly, the study confirms its null hypothesis. While the researchers likely would have attracted more attention (and citations) had they modified the data to suggest that e-cigarettes are an effective aid for smokers seeking to quit, they did no such thing. And, for the record, the paper was nevertheless received well by the scientific community and, at present, has been cited over a thousand times.
