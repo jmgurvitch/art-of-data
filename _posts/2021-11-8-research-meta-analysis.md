@@ -27,7 +27,7 @@ At least one researcher belonged to one of the following institutions: the Natio
 
 5. Why are they interested in this data?
 
-
+Smoking is a leading cause of lung cancer, which kills over one million people annually. Consequently, smoking cessation presents a promising avenue by which worldwide lung cancer rates can be reduced. With that in mind, the researchers were interested in determining whether nicotine-containing e-cigarettes helped smokers to quit with a greater efficacy than did nicotine patches, which, if confirmed, could fundamentally alter the paradigm of lung-cancer prevention. 
 
 6. What data is being recorded? What data might be left out?
 
