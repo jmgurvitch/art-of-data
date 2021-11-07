@@ -14,19 +14,25 @@ comments: true
 1. What are the null and alternative hypotheses?
 
 
+
 3. Who is collecting and analyzing this data?
 
+At least one researcher belonged to one of the following institutions: the National Institute for Health Innovation in University of Auckland's School of Population Health; Health New Zealand, a company run by one of the researchers; the Wolfson Institute of Preventative Medicine in the UK Centre for Tobacco Control Studies at Queen Mary University of London; and the Department of Public Health and General Practice at the University of Otago. The researchers declared that they received no funding or other types of support from any relevant companies, such as cigarette sellers, although Health New Zealand once consulted for an e-cigarette copmany.
 
 4. What datasets does this study reference or use? Are these datasets available to the public?
+
 
 
 5. Why are they interested in this data?
 
 
+
 6. What data is being recorded? What data might be left out?
 
 
+
 7. What evidence did they present to back up their conclusions?
+
 
 
 8. How was this study funded?
