@@ -23,7 +23,9 @@ At least one researcher belonged to one of the following institutions: the Natio
 
 4. What datasets does this study reference or use? Are these datasets available to the public?
 
-To sort the participants into nicotine-containing e-cigarette, nicotine patch, and placebo e-cigarette cohorts, the researchers used computerized block randomization, a tool that, according to stastician Martin Bland, "reduces opportunities for bias and confounding in experimental designs, and leads to treatment groups which are random samples of the population sampled, thus helping to meet assumptions of subsequent statistical analysis" (Bland 2000). Additionally, the study's data collectors received no information about a given participant's treatment regimen. As a result, data was collected in a manner that minimized unconscious biases--a desire to produce significant results--as much as possible.
+To sort the participants into nicotine-containing e-cigarette, nicotine patch, and placebo e-cigarette cohorts, the researchers used computerized block randomization, a tool that, according to stastician Martin Bland, "reduces opportunities for bias and confounding in experimental designs, and leads to treatment groups which are random samples of the population sampled, thus helping to meet assumptions of subsequent statistical analysis" (Bland, 2000). Additionally, the study's data collectors received no information about a given participant's treatment regimen. As a result, data was collected in a manner that minimized unconscious biases--that is, a desire to produce significant results--as much as possible. Furthermore, the cartriges given to participants in the e-cigarette groups were masked so that the presence of nicotine was unknown to the user.
+
+The study generated its own datasets from participant questionnaires and examinations. While the final paper includes tables and figures that summarize the data, I could not find the raw datasets online. This may be due to laws that mandate the protection of participants' identities. 
 
 5. Why are they interested in this data?
 
