@@ -33,7 +33,7 @@ Smoking is a leading cause of lung cancer, which kills over one million people a
 
 6. What data is being recorded? What data might be left out?
 
-
+The researchers recorded at seven-day intervals whether participants had relapsed. What such a simple (not that simplicity is not always a bad thing) and standardized metric does, however, is reduce the complexity of the participants. It cannot possibly take into account the vicissitudes of the human existence; when these inevitable stresses of life are obscured in a trial that includes people at high risk of relapse, we lose critical explanatory datapoints that could produce an erroneous conclusion.
 
 7. What evidence did they present to back up their conclusions?
 
