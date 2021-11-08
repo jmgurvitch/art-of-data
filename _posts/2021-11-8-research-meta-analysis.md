@@ -33,15 +33,16 @@ Smoking is a leading cause of lung cancer, which kills over one million people a
 
 6. What data is being recorded? What data might be left out?
 
-The researchers recorded at seven-day intervals whether participants had relapsed. What such a simple (not that simplicity is not always a bad thing) and standardized metric does, however, is reduce the complexity of the participants. It cannot possibly take into account the vicissitudes of the human existence; when these inevitable stresses of life are obscured in a trial that includes people at high risk of relapse, we lose critical explanatory datapoints that could produce an erroneous conclusion.
+The researchers recorded at seven-day intervals whether participants had relapsed. What such a simple (not that simplicity is not always a bad thing) and standardized metric does, however, is reduce the complexity of the participants. It cannot possibly take into account the vicissitudes of the human existence; when these inevitable stresses of life are obscured in a trial that includes people at high risk of relapse, we lose critical explanatory datapoints that could produce an erroneous conclusion. Additionally, a consequence of the questionnaire-driven nature of the study was that, self-reporting rates, by the researchers' admission, varied, leading to not-entirely comparable results across cohorts.
 
 7. What evidence did they present to back up their conclusions?
 
-
+The researchers found that the achievement of abstinence was significantly lower than anticipated across all cohorts, leading them to be unable to confirm the alternative hypothesis. They observed that many participants quit smoking in the initial days of the study but soon relapsed. Despite its statistical insignificance, it may be worth noting that, among those who relapsed, the nicotine e-cigarette group had a median time to relapse that was over double that of the nicotine patch and placebo e-cigarette groups. Additionally, they did find that the amount by which nicotine e-cigarette users reduced their daily cigarette intake was significantly higher than that of placebo e-cigarette users.
 
 8. How was this study funded?
 
-This study was funded by the Health Research Council of New Zealand, a government agency that manages the government's investment in medical research.
+This study was funded by the Health Research Council of New Zealand, a government agency that manages the government's investment in medical research. As the researchers state in the paper, "The sponsor of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full
+access to all the data in the study and had final responsibility for the decision to submit for publication."
 
 9. Do you think publish or perish had an effect on this study?
 
