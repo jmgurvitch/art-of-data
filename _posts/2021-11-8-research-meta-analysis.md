@@ -13,9 +13,9 @@ comments: true
 
 1. What are the null and alternative hypotheses?
 
-The null hypothesis stated that e-cigarettes were no more effective than nicotine patches at helping smokers to quit.
+The alternative hypothesis stated that "nicotine e-cigarettes would be more effective than patches and placebo e-cigarettes for smoking reduction, tobacco dependence, and relief of withdrawal symptoms, and that they would have no greater risk of adverse events than nicotine patches."
 
-The alternative hypothesis stated that cigarettes were more effective than nicotine patches at helping smokers to quit.
+The null hypothesis stated that e-cigarettes were no more effective than nicotine patches or placebo e-cigarettes at achieveing any of the aforementioned objectives.
 
 3. Who is collecting and analyzing this data?
 
@@ -23,7 +23,7 @@ At least one researcher belonged to one of the following institutions: the Natio
 
 4. What datasets does this study reference or use? Are these datasets available to the public?
 
-
+To sort the participants into nicotine-containing e-cigarette, nicotine patch, and placebo e-cigarette cohorts, the researchers used computerized block randomization, a tool that, according to stastician Martin Bland, "reduces opportunities for bias and confounding in experimental designs, and leads to treatment groups which are random samples of the population sampled, thus helping to meet assumptions of subsequent statistical analysis" (Bland 2000). Additionally, the study's data collectors received no information about a given participant's treatment regimen. As a result, data was collected in a manner that minimized unconscious biases--a desire to produce significant results--as much as possible.
 
 5. Why are they interested in this data?
 
