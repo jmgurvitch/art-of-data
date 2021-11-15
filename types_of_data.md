@@ -4,7 +4,6 @@
 We've talked about different types of data before when thinking about writing code. Let's review what *type* means in the context of computer science.
 
 1. What are some different types of data you've worked with? _Hint: what's a class?_
-
 A class is a user-defined blueprint or prototype from which objects are created. Classes provide a means of bundling data and functionality together. Creating a new class creates a new type of object, allowing new instances of that type to be made.
 
 
