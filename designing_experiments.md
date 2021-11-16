@@ -54,12 +54,14 @@
      
 3. How might an error affect the trustworthiness of a study? How much *should* an error affect the trustworthiness of a study?
 
-     
+
 
 4. What might a scientist do to prevent such errors?
 
-     
+     As with most things in life, the first step is acknowledgement. The more sources of error that a scientist can identify, the more they can actively seek to eliminate or compensate for. The fewer external phenomena that act on the experiment, the better. For example, if you're testing the lifespan of mice undergoing a treatment, you should give all mice the same food and make sure that they do not fight one another, which could cause bodily injury or death.
 
 5. What does it mean to **double blind** a study?
 
-     
+     A double blind study is a randomized clinical trial in which neither the treatment administrator nor the subject know if the subject is receiving the experimental treatment, a standard treatment or a placebo. Only those directing the study know the treatment that each participant receives. Double-blind studies prevent bias when doctors (involved in treatment) evaluate patients’ outcomes. This improves reliability of clinical trial results.
+
+
