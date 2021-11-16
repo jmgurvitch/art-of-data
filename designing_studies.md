@@ -17,11 +17,11 @@
 
 5. Why can't an observational study show causation?
 
-   
+   An observational study documents what occurs without external interference, so we cannot confirm that changes in one factor change another. 
 
 7. What reasons might a researcher have for choosing one type of study over another?
 
-   
+   Experimental studies are vastly more expensive, regulation-laden, and slower than observational studies. Observational studies can suggest viable paths for future experimental studies. Correlative data can also be collected faster; in the COVID-19 pandemic, for example, we can't wait around to perform rigorous experimental studies and need the data in real time, and huge sample sets can help with the correlation.
 
 ## Sample Frame
 1. What is a **sample frame**, and how is that different from a sample?
