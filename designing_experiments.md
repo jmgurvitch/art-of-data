@@ -39,6 +39,7 @@
      - Obtain sample to include in experiment
      - Conduct treatments on **control** and **experimental** groups
 2. What are some examples of how an experiment can go wrong? Refer to specific steps from the list above.
+     
      Following the same steps as above:
      - Background research can be flawed and lead you to have an incorrect theoretical background for a project
      - Your question can be focusing on the wrong phenomenon
