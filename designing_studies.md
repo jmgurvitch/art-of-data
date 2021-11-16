@@ -7,9 +7,12 @@
 
 ## Types of Studies
 1. What is the difference between an **observational** and an **experimental** study?
-2. What is meant by the phrase "correlation, not causation"? Take a look at [Tyler Vigen's spurious correlations](https://www.tylervigen.com/spurious-correlations) for some examples.
-3. Why can't an observational study show causation?
-4. What reasons might a researcher have for choosing one type of study over another?
+
+   In an observational study, we measure or survey members of a sample without trying to affect them. In an experiment, we assign people or things to groups and apply some treatment to one of the groups, while the other group does not receive the treatment. Example of an observational study: we collect data on student stress levels and the number of classes they take and then try to find correlation between the two. Experimental study: RP58.
+
+3. What is meant by the phrase "correlation, not causation"? Take a look at [Tyler Vigen's spurious correlations](https://www.tylervigen.com/spurious-correlations) for some examples.
+4. Why can't an observational study show causation?
+5. What reasons might a researcher have for choosing one type of study over another?
 
 ## Sample Frame
 1. What is a **sample frame**, and how is that different from a sample?
