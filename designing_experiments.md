@@ -54,7 +54,7 @@
      
 3. How might an error affect the trustworthiness of a study? How much *should* an error affect the trustworthiness of a study?
 
-
+     If a study is rife with error, it suggests that the experimenters were less rigorous than they could have been or that they failed to control for confounding factors. If a study acknowledges its sources of error and does its best to minimize them, it suggests that the researchers did a better job at isolating the factors of interest. Error's effect on a study's trustworthiness is dependent on the situation: if a researcher is using an experimental method for the first time ever, it would make sense that they have a larger margin of error than someone running a routine, established protocol.
 
 4. What might a scientist do to prevent such errors?
 
