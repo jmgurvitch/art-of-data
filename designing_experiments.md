@@ -20,25 +20,45 @@
 
 2. How might sampling bias affect the results of an experiment?
 
-     
+     Sampling bias is a bias in which a sample is collected in such a way that some members of the intended population have a lower or higher sampling probability than others. It results in a biased sample of a population in which all individuals, or instances, were not equally likely to have been selected, meaning that the conditions of the experiment could be misrepresented by the results.
 
 3. What might go wrong while conducting an experiment?
 
-     Sampling bias is a bias in which a sample is collected in such a way that some members of the intended population have a lower or higher sampling probability than others. It results in a biased sample of a population in which all individuals, or instances, were not equally likely to have been selected, meaning that the conditions of the experiment could be misrepresented by the results.
+     In addition to irresponsible sampling procedures, a literal infinitude of factors could complicate an experiment's results. Our duty as experimenters is to minimize those potential sources of error and, if inevitable, account for them (or at least acknowledge them).
 
 ## Designing an Experiment
 1. Put these steps in the correct order:
+     - Do background research
      - Ask a precise question
+     - Identify population
      - Identify independent and dependent variables
+     - Identify null and alternative hypotheses
+     - Identify **treatments**
+     - Choose sampling method
      - Identify sample frame
      - Obtain sample to include in experiment
-     - Identify population
-     - Do background research
      - Conduct treatments on **control** and **experimental** groups
-     - Choose sampling method
-     - Identify **treatments**
-     - Identify null and alternative hypotheses
 2. What are some examples of how an experiment can go wrong? Refer to specific steps from the list above.
+     Following the same steps as above:
+     - Background research can be flawed and lead you to have an incorrect theoretical background for a project
+     - Your question can be focusing on the wrong phenomenon
+     - You can identify a poor population for your experiment
+     - You can focus on the wrong variables
+     - You can pursue the wrong conjecture
+     - You can develop a flawed treatment that doesn't actually test what you want to test
+     - You can develop a sampling method that is irrelevant for your project
+     - Your sample frame may not have the best subset of the population for your experiment
+     - The sample that you obtain can be flawed or simply the wrong sample for your purposes
+     - You can mess up your treatments (cross contamination, wrong procedure, etc) or mis-record data
+     
 3. How might an error affect the trustworthiness of a study? How much *should* an error affect the trustworthiness of a study?
+
+     
+
 4. What might a scientist do to prevent such errors?
+
+     
+
 5. What does it mean to **double blind** a study?
+
+     
