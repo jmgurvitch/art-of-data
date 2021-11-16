@@ -7,14 +7,13 @@ We've talked about different types of data before when thinking about writing co
 
   A class is a user-defined blueprint or prototype from which objects are created. Classes provide a means of bundling data and functionality together. Creating a new class creates a new type of object, allowing new instances of that type to be made.
 
-3. What happens if you try to average a list of strings?
+2. What happens if you try to average a list of strings?
 
   Assuming that average means arithmetic/geometric average, it will not work because we are trying to perform a string-incompatible function on a string.
 
-5. Why is a variable's type important?
+3. Why is a variable's type important?
 
   A variable's type determines the values that the variable can have and the operations that can be performed on it.
-
 
 ## Statistical Types of Data
 In statistics, a variable's type means something different compared to what we've seen in computer science.
