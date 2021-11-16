@@ -30,7 +30,7 @@
 
 3. What does **coverage bias** (also called **exclusion bias**) mean in the context of choosing a sample frame?
 
-   
+   Coverage error is a bias in a statistic that occurs when the target population does not coincide with the population actually sampled.
 
 5. Suppose a researcher were studying the population of all students at Horace Mann.
    1. Give an example of a sample frame that demonstrates coverage bias.
