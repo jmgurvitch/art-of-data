@@ -12,8 +12,16 @@
    Example of an observational study: we collect data on student stress levels and the number of classes they take and then try to find correlation between the two. Experimental study example: randomized control studies.
 
 3. What is meant by the phrase "correlation, not causation"? Take a look at [Tyler Vigen's spurious correlations](https://www.tylervigen.com/spurious-correlations) for some examples.
-4. Why can't an observational study show causation?
-5. What reasons might a researcher have for choosing one type of study over another?
+
+   The phrase "correlation, not causation" refers to the inability to legitimately deduce a causal relationship between two events or variables solely on the basis of an observed association or correlation between them. This can be caused by confounding variables: for example, shark attacks and ice cream consumption are correlated, but in reality it's because people have a higher likelihood of eating ice cream when they are at the beach, which is where sharks are.
+
+5. Why can't an observational study show causation?
+
+   
+
+7. What reasons might a researcher have for choosing one type of study over another?
+
+   
 
 ## Sample Frame
 1. What is a **sample frame**, and how is that different from a sample?
