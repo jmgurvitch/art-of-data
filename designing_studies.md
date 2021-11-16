@@ -3,6 +3,8 @@
 ## Review
 1. What is the difference between a sample and a population?
 
+   A population is the group of interest--the group about which you are trying to pose a hypothesis/create a conclusion. The population can comprise more groups than the sample represents. The sample is usually a subset of the population. For example if you're trying to study Arctic animals, your sample may be penguins only but then we extrapolate results back out to all Arctic animals, such as polar bears etc.
+
 ## Types of Studies
 1. What is the difference between an **observational** and an **experimental** study?
 2. What is meant by the phrase "correlation, not causation"? Take a look at [Tyler Vigen's spurious correlations](https://www.tylervigen.com/spurious-correlations) for some examples.
