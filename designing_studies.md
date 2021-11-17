@@ -35,15 +35,15 @@
 5. Suppose a researcher were studying the population of all students at Horace Mann.
    1. Give an example of a sample frame that demonstrates coverage bias.
 
-      
+      Interviewing all students who pass through Tillinghast's basement to learn about the CS department.
 
    3. What reasons might the researcher have for choosing that sample frame?
 
-      
+      All CS classes are in the basement.
 
    5. What could the researcher do to reduce coverage bias?
 
-      
+      Pull only from CS classes--that way you get only CS kids.
 
 ## Sampling Methodology
 1. What does it mean for a sample to be "good"?
