@@ -56,12 +56,13 @@
 
 3. Give two examples of nonprobability sampling. What biases might these methods be prone to?
 
-   - An example of convenience sampling would be using student volunteers known to the researcher. Researchers can send the survey to students belonging to a particular school, college, or university, and act as a sample.
-   - The researcher chooses the sample based on who they think would be appropriate for the study. This is used primarily when there is a limited number of people that have expertise in the area being researched, or when the interest of the research is on a specific field or a small group.
+   - Ask students who hang out in the shop whether they like engineering/robotics. This experimental design selects for engineering/robotics kids.
+   - The researcher chooses the sample based on who they think would be appropriate for the study. This is used primarily when there is a limited number of people that have expertise in the area being researched, or when the interest of the research is on a specific field or a small group. This lends itself to non-representative sample sets.
 
 4. Give two examples of probability sampling. What biases might these methods be prone to?
 
-   
+   - Survey random students on whether they like English class. Find 100 random students by choosing 100 random names from all UD students. This does not account for other circumstances, such as grade level. A 9th grader who hates English may come around by 12th grade.
+   - Go to Times Square and ask random passersby about their thoughts on Eric Adams. There will be more Democrats in Manhattan than Staten Island, so this won't represent all of NYC.
 
 ## Practice
 Choose one of the following situations:
@@ -71,7 +72,22 @@ Choose one of the following situations:
 
 Then, for your chosen situation, write a response to the following:
 1. Identify a statistical question you could ask in that situation.
+
+   Does increased time spent reading at home improve reading-task performance among 3rd graders in NYC?
+
 2. Identify the population you would study to answer the question. What information about the population would help answer your question?
+
+   All 3rd graders in NYC.
+
 3. Identify a feasible sample frame, and explain your reasoning.
+
+   A feasible sample frame could be all 3rd graders in the NYC public school system because, assuming we can get government approval, all of the data would be centralized and NYC's public school system spans all of the neighborhoods and regions of the city.
+
 4. Identify the sampling method you would use, and explain your reasoning. What makes this method better than the others?
+
+   I would retrieve data from a set number of 3rd graders at every public school in the city. Within each school the selected students would be random This is better than simple random sampling because such a method could inadvertently choose predominantly students from the UES and UWS, which is a generally wealthy subset that does not represent most of the city's population.
+
 5. What biases may come up, and how would you address them?
+
+   Although this method makes sure to draw from students across the city, it fails to take into account socioeconomic differences, which have a massive effect on child development, particularly time spent reading (often with parents) at home.
+
