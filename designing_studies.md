@@ -78,15 +78,15 @@ Then, for your chosen situation, write a response to the following:
 
 2. Identify the population you would study to answer the question. What information about the population would help answer your question?
 
-   All 3rd graders in the class. 
+   3rd graders in NYC whose first language is English. 
 
 3. Identify a feasible sample frame, and explain your reasoning.
 
-   A feasible sample frame could be all 3rd graders in the NYC public school system because, assuming we can get government approval, all of the data would be centralized and NYC's public school system spans all of the neighborhoods and regions of the city.
+   The 3rd grade class that we teach.
 
 4. Identify the sampling method you would use, and explain your reasoning. What makes this method better than the others?
 
-   I would retrieve data from a set number of 3rd graders at every public school in the city. Within each school the selected students would be random This is better than simple random sampling because such a method could inadvertently choose predominantly students from the UES and UWS, which is a generally wealthy subset that does not represent most of the city's population.
+   I would retrieve data from a set number of 3rd graders at every public school in the city. Within each school the selected students would be random. This is better than simple random sampling because such a method could inadvertently choose predominantly students from the UES and UWS, which is a generally wealthy subset that does not represent most of the city's population.
 
 5. What biases may come up, and how would you address them?
 
