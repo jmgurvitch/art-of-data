@@ -86,7 +86,7 @@ Then, for your chosen situation, write a response to the following:
 
 4. Identify the sampling method you would use, and explain your reasoning. What makes this method better than the others?
 
-   I would retrieve data from a set number of 3rd graders at every public school in the city. Within each school the selected students would be random. This is better than simple random sampling because such a method could inadvertently choose predominantly students from the UES and UWS, which is a generally wealthy subset that does not represent most of the city's population.
+   We can take all students in the class who speak English, or at least split the students into native English and non-native English.
 
 5. What biases may come up, and how would you address them?
 
