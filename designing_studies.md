@@ -47,9 +47,21 @@
 
 ## Sampling Methodology
 1. What does it mean for a sample to be "good"?
+
+   A good sample should be a representative subset of the population we are interested in studying and be influenced by minimal external factors.
+
 2. What is the difference between **probability** and **nonprobability** sampling?
+
+   Probability sampling means that every member of the target population has a known chance of being included in the sample. In non-probability sampling, the sample is selected based on non-random criteria, and not every member of the population has a chance of being included.
+
 3. Give two examples of nonprobability sampling. What biases might these methods be prone to?
+
+   - An example of convenience sampling would be using student volunteers known to the researcher. Researchers can send the survey to students belonging to a particular school, college, or university, and act as a sample.
+   - The researcher chooses the sample based on who they think would be appropriate for the study. This is used primarily when there is a limited number of people that have expertise in the area being researched, or when the interest of the research is on a specific field or a small group.
+
 4. Give two examples of probability sampling. What biases might these methods be prone to?
+
+   
 
 ## Practice
 Choose one of the following situations:
