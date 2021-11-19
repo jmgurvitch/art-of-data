@@ -63,6 +63,7 @@
 
    - Survey random students on whether they like English class. Find 100 random students by choosing 100 random names from all UD students. This does not account for other circumstances, such as grade level. A 9th grader who hates English may come around by 12th grade.
    - Go to Times Square and ask random passersby about their thoughts on Eric Adams. There will be more Democrats in Manhattan than Staten Island, so this won't represent all of NYC.
+   - Probability sampling cannot exist in reality.
 
 ## Practice
 Choose one of the following situations:
@@ -73,11 +74,11 @@ Choose one of the following situations:
 Then, for your chosen situation, write a response to the following:
 1. Identify a statistical question you could ask in that situation.
 
-   Does increased time spent reading at home improve reading-task performance among 3rd graders in NYC?
+   Does increased time spent reading at home improve reading-task performance among 3rd graders in the class?
 
 2. Identify the population you would study to answer the question. What information about the population would help answer your question?
 
-   All 3rd graders in NYC.
+   All 3rd graders in the class. 
 
 3. Identify a feasible sample frame, and explain your reasoning.
 
