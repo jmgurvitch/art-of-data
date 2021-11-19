@@ -48,11 +48,11 @@
 ## Sampling Methodology
 1. What does it mean for a sample to be "good"?
 
-   A good sample should be a representative subset of the population we are interested in studying and be influenced by minimal external factors.
+   A good sample should be a representative subset of the population we are interested in studying.
 
 2. What is the difference between **probability** and **nonprobability** sampling?
 
-   Probability sampling means that every member of the target population has a known chance of being included in the sample. In non-probability sampling, the sample is selected based on non-random criteria, and not every member of the population has a chance of being included.
+   Probability sampling means that every member of the target population has a known chance of being included in the sample. It aims to reduce coverage bias. In non-probability sampling, the sample is selected based on non-random criteria, and not every member of the population has a chance of being included.
 
 3. Give two examples of nonprobability sampling. What biases might these methods be prone to?
 
