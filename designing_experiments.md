@@ -30,10 +30,8 @@
 1. Put these steps in the correct order:
      - Do background research
      - Identify population
-     - Identify independent and dependent variables
-     - Ask a precise question
-     - Identify null and alternative hypotheses
-     - Identify **treatments**
+     - Identify independent and dependent variables/Identify **treatments**
+     - Ask a precise question/Identify null and alternative hypotheses
      - Choose sampling method
      - Identify sample frame
      - Obtain sample to include in experiment
