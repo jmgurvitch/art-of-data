@@ -18,6 +18,10 @@ Please respond to the following questions. _Show your work_ if applicable, and b
 
 4. A researcher wants to study the population of all New York City residents. What is a feasible sample frame, and what biases might this sample frame be prone to?
 
-    
+    The researcher could stand in the middle of Grand Central Terminal 
 
 5. A scientist conducted an observational study on mental health and calculated that the correlation between recreational drug use and depression is 0.83. Why can't they conclude that recreational drug use causes depression?
+
+    An observational study is necessarily correlative regardless of the observed relationship between variables. Because it documents what occurs without external interference, such as the perscription of a medicine to half of the study's participants, the researchers cannot confirm that changes in one factor change another--after all, nothing was deliberately changed. 
+
+
