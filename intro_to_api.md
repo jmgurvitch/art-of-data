@@ -3,15 +3,17 @@
 ![Several clients connect to a server via HTTP](assets/img/server_clients.png)
 1. What does **HTTP** stand for, and what does it mean in the context of the _internet_?
 
-    HTTP stands for HyperText Transfer Protocol. It is The communications protocol used to connect to Web servers on the Internet or on a local network (intranet). The primary function of HTTP is to establish a connection with the server and send HTML pages back to the user's browser.
+    HTTP stands for HyperText (text that can be displayed and formatted on a computer) Transfer Protocol. It is the communications protocol (algorithm) used to connect to Web servers on the Internet. The primary function of HTTP is to establish a connection with the server and send HTML pages back to the user's browser.
 
 2. What is the relationship between a **server** and **clients**?
 
-    The client-server model is the relationship between two computers in which one, the client, makes a service request from another, the server. The key point about a client-server model is that the client is dependent on the server to provide and manage the information. For example, websites are stored on web servers.
+    A server is a system that stores data. A client is a device that sends a request to access data that is locally stored on the server, such as a laptop connecting to a website.
 
 3. In the context of this diagram and APIs, what is a **URL**?
 
-     A Uniform Resource Locator (URL), colloquially termed a web address, is a reference to a web resource that specifies its location on a computer network.
+    If a server is a city, APIs are the seaports and airports that enable outsiders--clients--to access a city without moving there. APIs are the way that people control how others are able to access and use the data on a particular server.
+    
+    A Uniform Resource Locator (URL), colloquially termed a web address, is a reference to a web resource that specifies its location on a computer network. It tells the server to direct you to a certain piece of data stored at the URL.
 
 4. In the context of this diagram and APIs, what is an **endpoint**?
 
