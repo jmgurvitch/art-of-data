@@ -18,10 +18,8 @@ Please respond to the following questions. _Show your work_ if applicable, and b
 
 4. A researcher wants to study the population of all New York City residents. What is a feasible sample frame, and what biases might this sample frame be prone to?
 
-    The researcher could stand in the middle of Grand Central Terminal 
+    Suppose a list of NYC households is available. The researcher could randomly choose a set number of households from each of the city's regions--Upper East Side, Williamsburg, West Village, etc--and contact each one to request an interview with all available members of the household. This would make the sample frame the randomly chosen set of NYC residents who live in a home. Unfortunately, this sample frame excludes the city's substantial homeless population by definition. Additionally, it is entirely possible that more residents of one neighborhood (and the definition of "neighborhood" is very subjective as well, I will add) elect to be interviewed than do residents of another neighborhood, decreasing the study's ability to accurately represent the entire NYC population.
 
 5. A scientist conducted an observational study on mental health and calculated that the correlation between recreational drug use and depression is 0.83. Why can't they conclude that recreational drug use causes depression?
 
     An observational study is necessarily correlative regardless of the observed relationship between variables. Because it documents what occurs without external interference, such as the perscription of a medicine to half of the study's participants, the researchers cannot confirm that changes in one factor change another--after all, nothing was deliberately changed. 
-
-
