@@ -14,7 +14,7 @@ Please respond to the following questions. _Show your work_ if applicable, and b
 
 3. A researcher is conducting a study on vegetarian diets. They stand in front of a build-your-own-salad restaurant and survey people who enter. Identify the population, and explain why this is not a great sample.
 
-    
+    Because the researcher is conducting a study on vegetarian diets but neglects to specify which vegetarians they are studying, the best we can do is assume that the population is all vegetarians. And because the researcher surveys people who enter but neglects to specify whether they confirm that the respondents are vegetarian or not, we cannot assume that the sample is not all people who enter the restaurant. As the patrons of a build-your-own-salad restaurant must be willing to eat a principally vegetable-based meal, the chances that the share of vegetarian respondents is higher than it would be at different restaurant type is high, to be sure; even so, there are plenty of meat eaters who eat salads. As a result, the sample would include non-vegetarians but extraploate its results to vegetarians only.
 
 4. A researcher wants to study the population of all New York City residents. What is a feasible sample frame, and what biases might this sample frame be prone to?
 
