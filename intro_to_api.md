@@ -2,9 +2,20 @@
 ## Background
 ![Several clients connect to a server via HTTP](assets/img/server_clients.png)
 1. What does **HTTP** stand for, and what does it mean in the context of the _internet_?
+
+    HTTP stands for HyperText Transfer Protocol. It is The communications protocol used to connect to Web servers on the Internet or on a local network (intranet). The primary function of HTTP is to establish a connection with the server and send HTML pages back to the user's browser.
+
 2. What is the relationship between a **server** and **clients**?
+
+    The client-server model is the relationship between two computers in which one, the client, makes a service request from another, the server. The key point about a client-server model is that the client is dependent on the server to provide and manage the information. For example, websites are stored on web servers.
+
 3. In the context of this diagram and APIs, what is a **URL**?
+
+     A Uniform Resource Locator (URL), colloquially termed a web address, is a reference to a web resource that specifies its location on a computer network.
+
 4. In the context of this diagram and APIs, what is an **endpoint**?
+
+    An endpoint is one end of a communication channel. When an API interacts with another system, the touchpoints of this communication are considered endpoints. For APIs, an endpoint can include a URL of a server or service. ... The place that APIs send requests and where the resource lives, is called an endpoint.
 
 ## Server-Client Communication
 Let's examine an interaction between a server and a client.
