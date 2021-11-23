@@ -17,7 +17,7 @@
 
 4. In the context of this diagram and APIs, what is an **endpoint**?
 
-    An endpoint is one end of a communication channel. When an API interacts with another system, the touchpoints of this communication are considered endpoints. For APIs, an endpoint can include a URL of a server or service. ... The place that APIs send requests and where the resource lives, is called an endpoint.
+    Endpoints are the specific points at which clients can access data on the server. URLs are an example of endpoints.
 
 ## Server-Client Communication
 Let's examine an interaction between a server and a client.
@@ -28,7 +28,7 @@ Let's examine an interaction between a server and a client.
 
 2. Why does the server need a `KEY` before sending `X`?
 
-    
+    To prevent giving out data indiscriminately. Examples are paywalls and anti-spam systems such as Cloudflare, which prevents DDoS attacks by limiting the number of simultaneous server connections.
 
 3. The server and client are communicating via HTTP (Hyper _Text_ Transfer Protocol). What format will the requested `X` be sent as?
 
