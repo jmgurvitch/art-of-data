@@ -21,8 +21,16 @@
 Let's examine an interaction between a server and a client.
 ![A client sends a GET request to a server, who provides the item after authenticating the client](assets/img/server_client.png)
 1. How does the server know who the client is?
+
+    The client provides a key that verifies its identity.
+
 2. Why does the server need a `KEY` before sending `X`?
+
+    
+
 3. The server and client are communicating via HTTP (Hyper _Text_ Transfer Protocol). What format will the requested `X` be sent as?
+
+    
 
 ## Data Transfer
 ### Review
