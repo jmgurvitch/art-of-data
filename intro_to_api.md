@@ -1,6 +1,6 @@
 # Intro to APIs
 ## Background
-![Several clients connect to a server via HTTP](img/server_clients.png)
+![Several clients connect to a server via HTTP](assets/img/server_clients.png)
 1. What does **HTTP** stand for, and what does it mean in the context of the _internet_?
 2. What is the relationship between a **server** and **clients**?
 3. In the context of this diagram and APIs, what is a **URL**?
@@ -8,7 +8,7 @@
 
 ## Server-Client Communication
 Let's examine an interaction between a server and a client.
-![A client sends a GET request to a server, who provides the item after authenticating the client](img/server_client.png)
+![A client sends a GET request to a server, who provides the item after authenticating the client](assets/img/server_client.png)
 1. How does the server know who the client is?
 2. Why does the server need a `KEY` before sending `X`?
 3. The server and client are communicating via HTTP (Hyper _Text_ Transfer Protocol). What format will the requested `X` be sent as?
