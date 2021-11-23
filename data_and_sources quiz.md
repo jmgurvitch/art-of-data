@@ -6,7 +6,7 @@ Please respond to the following questions. _Show your work_ if applicable, and b
     p1 = Point(2,3)
     ```
     
-    In this snippet, the variable `p1` holds an object of class `Point`. In the
+    In this snippet, the variable `p1` holds an object of class `Point`. An object is an instance of a class, meaning that when we create `p1`, we assign a certain location in the computer's memory (which can be found by printing the object without making it a string) to contain 
     
 2. A researcher is conducting a survey on favorite sports and encodes each sport with a number. For example, 1=Archery, 2=Boxing, 3=Curling, and so on. They average these numbers to get 2.3 and conclude that on average, people's favorite sport is boxing on ice. Why is this incorrect?
 
