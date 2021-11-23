@@ -6,9 +6,7 @@ Please respond to the following questions. _Show your work_ if applicable, and b
     p1 = Point(2,3)
     ```
     
-    In this snippet, the variable `p1` holds an object of class `Point`, meaning that there is a variable `p1` of Class point whose x and y values (assuming that `Point` refers to Cartesian points) are the inputs 2 and 3, respectively.
-    
-    In terms of memory, an object is something that occupies memory that a computer may later have to call upon. Because the computer has stored information about the class, which functions as a blueprint to create data entities with specific characteristics--objects--`p1` is an object of class `Point` that is called upon by the user to create a variable with the parameters of `Point`.
+    In this snippet, the variable `p1` holds an object of class `Point`, meaning that there is a variable `p1` of Class point whose x and y values (assuming that `Point` refers to Cartesian points) are the inputs 2 and 3, respectively. In terms of memory, an object is something that occupies memory that a computer may later have to call upon. Because the computer has stored information about the class, which functions as a blueprint to create data entities with specific characteristics--objects--`p1` is an object of class `Point` that is called upon by the user to create a variable with the parameters of `Point`.
     
 2. A researcher is conducting a survey on favorite sports and encodes each sport with a number. For example, 1=Archery, 2=Boxing, 3=Curling, and so on. They average these numbers to get 2.3 and conclude that on average, people's favorite sport is boxing on ice. Why is this incorrect?
 
