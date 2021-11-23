@@ -64,7 +64,7 @@ pokemon = {
 
 ## Consuming APIs With Python
 Let's return to this diagram:  
-![A client sends a GET request to a server, who provides the item after authenticating the client](img/server_client.png)  
+![A client sends a GET request to a server, who provides the item after authenticating the client](assets/img/server_client.png)  
 and accompany it with some Python code:
 ```python
 import requests
