@@ -32,7 +32,7 @@ Let's examine an interaction between a server and a client.
 
 3. The server and client are communicating via HTTP (Hyper _Text_ Transfer Protocol). What format will the requested `X` be sent as?
 
-    
+    We usually will get `X` as a JSON object.
 
 ## Data Transfer
 ### Review
@@ -53,13 +53,28 @@ pokemon = {
     ]
 }
 ```
-1. What does `pokemon['name']` evaluate to?
-2. What does `pokemon['types']['0']` evaluate to?
-3. Write Python code that accesses the `height`.
-4. Write Python code that accesses the `type` in slot 2.
+1. What does `pokemon["name"]` evaluate to?
+
+    It evaluates to the string "Scolipede" 
+
+3. What does `pokemon["types"]["0"]` evaluate to?
+
+    It returns a dictionary that has `slot : 1` and `type : bug`
+
+5. Write Python code that accesses the `height`.
+    
+    `pokemon["height"]`
+    
+6. Write Python code that accesses the `type` in slot 2.
+
+    `pokemon["types"][1]["type"]`
+
 
 ### JSON
 1. What does **JSON** stand for? Why is it useful for **REST** APIs?
+
+    JSON stands for "JavaScript Object Notation." It is a syntax in the language javascript for discussing objects. REST stands for "representational state transfer." It leaves some of the implementation up to the creator--it is a set of guidelines that is--and is more common in newer APIs. SOAP is the other type of API, and it is more rigid in its implementation.
+
 
 Examine the following **Javascript object**.
 ```js
@@ -80,8 +95,17 @@ pokemon = {
 ```
 
 2. What does `pokemon['name']` evaluate to?
-3. How would you access the `type` in slot 2?
-4. How is a Javascript object different than a Python dictionary?
+
+    "Scolipede"
+
+4. How would you access the `type` in slot 2?
+
+    `pokemon["types"]["2"]`
+
+6. How is a Javascript object different than a Python dictionary?
+
+    They are almost identical.
+
 
 ## Consuming APIs With Python
 Let's return to this diagram:  
