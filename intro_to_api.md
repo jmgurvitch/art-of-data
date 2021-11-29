@@ -127,9 +127,28 @@ else:
 ```
 
 1. What is the **requests** module used for?
+
+    It is used to request data through the API.
+
 2. What parameters does the `get` method take?
+
+    The `get` method concatenates a base url (such as "horacemann.org") and an endpoint (such as "/katzlibrary") and also specific parameters
+
 3. What is a **payload** in the context of APIs?
+
+    
+
 4. We can now treat `data` as a Python dictionary. Why is that allowed?
+
+    
+
 5. How do we check if the response is OK?
+
+    
+
 6. What do we do if the response is not OK?
+
+    
+
 7. What is an HTTP **status code**?
+    
