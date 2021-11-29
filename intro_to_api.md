@@ -136,15 +136,16 @@ else:
 
 3. What is a **payload** in the context of APIs?
 
-    
+    It is a dictionary that you are sending to the API (usually a dictionary or string) to query the API for data.
 
 4. We can now treat `data` as a Python dictionary. Why is that allowed?
 
-    
+    Because the .json method returns a dictionary.
 
 5. How do we check if the response is OK?
 
-    
+    `if response.ok:
+        data = response.json()`
 
 6. What do we do if the response is not OK?
 
