@@ -13,7 +13,18 @@ Let's clean up the `pokemon_mess.csv` with code this time. We're going to use a 
 ## Setup
 1. Write a `Pokemon` class that encapsulates all the information you need to clean the csv. The `__str__` method should return the corresponding clean line of the csv.
 
- 
+ `py
+ class Pokemon:
+    def __init__(self, id, name, height, weight, type1, type2):
+        self.id = id
+        self.name = name
+        self.height = height
+        self.weight = weight
+        self.type1 = type1
+        self.type2 = type2
+
+    def __str__(self):
+        return f"{self.id},{self.name},{self.height},{self.weight},{self.type1},{self.type2}"`
 
 ## Cleanup
 Write a Python file that outputs a `pokemon.csv`, which is a clean version of `pokemon_mess.csv`.
