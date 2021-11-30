@@ -25,7 +25,7 @@ Let's clean up the `pokemon_mess.csv` with code this time. We're going to use a 
 
     def __str__(self):
         return f"{self.id},{self.name},{self.height},{self.weight},{self.type1},{self.type2}"
-        ```
+```
 
 ## Cleanup
 Write a Python file that outputs a `pokemon.csv`, which is a clean version of `pokemon_mess.csv`.
