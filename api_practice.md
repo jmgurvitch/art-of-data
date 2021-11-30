@@ -13,6 +13,8 @@ Let's clean up the `pokemon_mess.csv` with code this time. We're going to use a 
 ## Setup
 1. Write a `Pokemon` class that encapsulates all the information you need to clean the csv. The `__str__` method should return the corresponding clean line of the csv.
 
+ 
+
 ## Cleanup
 Write a Python file that outputs a `pokemon.csv`, which is a clean version of `pokemon_mess.csv`.
 
