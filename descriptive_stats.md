@@ -42,7 +42,7 @@ Let's review `penguins.csv`; this time, we'll look only at the bill lengths of G
 
 1. Write a Python file to read in `penguins.csv` and create a list of Gentoo penguin bill lengths (or reuse code from before.) What is the **mean** bill length?
 
-```
+```py
 def makeNestedDict(filePath):
       
       d = {} #our master dictionary
