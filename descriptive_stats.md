@@ -61,7 +61,6 @@ def makeNestedDict(filePath):
                   else: #if we've seen the species before
                         d[row["species"]]["count"] += 1 #add one to penguin count
                         d[row["species"]]["total bill length"] += float(row["bill_length_mm"]) #add bill length to total bill length
-                        d[row["species"]]["total mass"] += float(row["body_mass_g"]) #add mass to total mass
                         d[row["species"]]["island"][row["island"]] += 1
             
             #find avg bill length of each penguin type
