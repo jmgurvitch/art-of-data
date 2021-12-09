@@ -4,7 +4,13 @@
 **Descriptive statistics** is also called **summary statistics**, and as the name implies, is the study of _describing_ datasets.
 
 1. Descriptive stats can only be applied to samples and _not_ populations. Why do you think that is?
+
+  We can't collect data about every member of the population--we can describe only the subset that we have information about, which is the sample.
+
 2. Why can't we use descriptive stats to make conclusions about a population?
+  
+  See above.
+
 3. Some measures you may already be familiar with include the **mean** and **mode**. What information is captured by those numbers, and what information is lost?
 
 ## Describing Qualitative Data
@@ -15,6 +21,8 @@ Examine the dataset `icecream.csv` on Google Classroom, which is collected for t
 2. Identify a feasible sampling frame.
 3. Is this data _ordinal_ or _nominal_? Explain.
 4. Using your answer above, explain why it would _not_ make sense to find the _mean_ ice cream flavor. Would it make sense to find the mode?
+
+  It also may not make sense to find the mode alone, as it only shows the most prevalent value. If we have 1000 chocolate fans and 1001 vanilla fans, we still will learn nothing about the popularity of chocolate. 
 
 ### Frequency Distributions
 1. What is a **frequency distribution**?
