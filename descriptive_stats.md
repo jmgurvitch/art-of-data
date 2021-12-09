@@ -41,6 +41,36 @@ One way of visualizing frequency distributions is by creating a **categorical ba
 Let's review `penguins.csv`; this time, we'll look only at the bill lengths of Gentoo penguins.
 
 1. Write a Python file to read in `penguins.csv` and create a list of Gentoo penguin bill lengths (or reuse code from before.) What is the **mean** bill length?
+
+```
+def makeNestedDict(filePath):
+      
+      d = {} #our master dictionary
+
+      with open(filePath, "r") as f:
+            data = csv.DictReader(f)
+            
+            #construct nested dictionary with the total values whose averages we can find later
+            for row in data:
+                  if row["species"] not in d.keys(): #if new species
+                        d[row["species"]] = {"count" : 1, "total bill length" : float(row["bill_length_mm"]), "total mass" : float(row["body_mass_g"]), "island" : {row["island"] : 1}}
+                  
+                  elif row["island"] not in d[row["species"]]["island"].keys(): #if new island
+                           d[row["species"]]["island"][row["island"]] = 1
+
+                  else: #if we've seen the species before
+                        d[row["species"]]["count"] += 1 #add one to penguin count
+                        d[row["species"]]["total bill length"] += float(row["bill_length_mm"]) #add bill length to total bill length
+                        d[row["species"]]["total mass"] += float(row["body_mass_g"]) #add mass to total mass
+                        d[row["species"]]["island"][row["island"]] += 1
+            
+            #find avg bill length of each penguin type
+            for species in d:
+                  d[species]["avg bill length"] = d[species]["total bill length"] / d[species]["count"]
+
+      return d
+```
+
 2. It can be useful to visualize the frequency distribuetion of quantitative data as well. One approach is to make a categorical bar chart, with each different value as a category. Why is that not a good idea?
 
 ### Histograms
