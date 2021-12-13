@@ -2,10 +2,26 @@
 
 ## Center
 1. Define **mean**, **median**, and **mode**.
+   - Mean: The arithmetic mean is found by adding the numbers and dividing the sum by the number of numbers in the list. This is what is most often meant by an average. The median is the middle value in a list ordered from smallest to largest. The mode is the most frequently occurring value on the list. There are other types of means, too. A geometric mean is found by multiplying all values in a list and then taking the root of that product equal to the number of values (e.g., the square root if there are two numbers). The geometric mean is typically used in cases of exponential growth or decline
+   - Median: The median is the middle value in a set of numbers
+   - Mode: The mode is the most common number in a data set.
+
 2. When people talk about taking an average, which **measure of center** are they usually referring to?
+
+   They generally are referring to the arithmetic mean.
+
 3. What is an **outlier**, and which measure of center does it affect the most?
+
+   An outlier is a value in a data set that is very different from the other values. That is, outliers are values unusually far from the middle. It most effects the mean.
+
 4. if the **median** is greater than the **mean**, what does that tell you about the _skew_ of the distribution?
+
+
+
 5. Give an example of a situation where finding the **mode** of a dataset would be useful.
+
+
+
 6. Two datasets have the same **mean** of 1.15. Are these two datasets the same? Why or why not?
 
 ## Variability
