@@ -16,13 +16,15 @@
 
 4. if the **median** is greater than the **mean**, what does that tell you about the _skew_ of the distribution?
 
-
+    The distribution will be skewed left.
 
 5. Give an example of a situation where finding the **mode** of a dataset would be useful.
 
-
+   Mode is most useful as a measure of central tendency when examining categorical data, such as models of cars or flavors of soda, for which a mathematical average median value based on ordering can not be calculated.
 
 6. Two datasets have the same **mean** of 1.15. Are these two datasets the same? Why or why not?
+
+   
 
 ## Variability
 The **variability** of a dataset is also called its **spread**.
