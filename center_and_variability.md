@@ -24,7 +24,7 @@
 
 6. Two datasets have the same **mean** of 1.15. Are these two datasets the same? Why or why not?
 
-   
+   Not necessarily. We could have one dataset with one instance of 0 and one instance of 2.3, and another with three instances of 1.15. Both have a mean of 1.15.
 
 ## Variability
 The **variability** of a dataset is also called its **spread**.
