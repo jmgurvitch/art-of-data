@@ -36,7 +36,7 @@ We will be examining the bill lengths of Gentoo penguins (again). Make sure you 
 ### IQR and Basic Visualizations
 Shown below is a **box plot** of Gentoo bill lengths.
 
-![Boxplot of Gentoo bill lengths](img/boxplot.png)
+![Boxplot of Gentoo bill lengths](assets/img/center-and-variability-boxplot.png)
 
 1. Where do the **whiskers** extend to?
 2. What percentage of the dataset is represented by the **box**?
@@ -47,7 +47,7 @@ Shown below is a **box plot** of Gentoo bill lengths.
 
 Shown below is a **violin plot** for the same data.
 
-![Violin plot of Gentoo bill lengths](img/violin.png)
+![Violin plot of Gentoo bill lengths](assets/img/center-and-variability-violin.png)
 
 1. How do the **box and whiskers** of a violin plot differ from those of a box plot?
 2. What information does a violin plot provide that a box plot doesn't?
