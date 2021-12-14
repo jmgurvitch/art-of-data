@@ -88,11 +88,25 @@ Shown below is a **box plot** of Gentoo bill lengths.
 ![Boxplot of Gentoo bill lengths](assets/img/center-and-variability-boxplot.png)
 
 1. Where do the **whiskers** extend to?
+
+   The whiskers extend to the dataset's extrema.
+
 2. What percentage of the dataset is represented by the **box**?
+
+   The box is the 25th to 75th percentile.
+
 3. What is an **interquartile range (IQR)**?
+
+   The interquartile range (IQR) measures the spread of the middle half of your data. It is the range for the middle 50% of your sample.
+
 4. Any observation that is `1.5*IQR` below Q1 or above Q3 is marked as a _potential_ outlier.
    1. How is this displayed in the box plot? Show the math necessary to determine that datapoint is an outlier.
+   
+      This is shown by the whiskers in the boxplot.
+   
    2. The `1.5IQR` rule can give a false positive; that is, a datapoint that is marked as an outlier even when it isn't one. Describe an example where that happens.
+
+      
 
 Shown below is a **violin plot** for the same data.
 
