@@ -43,7 +43,7 @@ We will be examining the bill lengths of Gentoo penguins (again). Make sure you 
    
    2. How will this affect the mean, median, and mode?
 
-      
+      This will increase the mean and median and keep the mode the same.
 
 3. For this question, let's introduce 30 new observations, all with petal length `48.1`
    1. Does the range change, and if so, what is the new range?
