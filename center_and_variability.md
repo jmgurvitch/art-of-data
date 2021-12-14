@@ -118,7 +118,7 @@ Shown below is a **violin plot** for the same data.
 
 2. What information does a violin plot provide that a box plot doesn't?
 
-   A violin plot accurately reflects distribution/concentration of data. Here is [a good animation](https://blog.bioturing.com/2018/05/16/5-reasons-you-should-use-a-violin-graph/).
+   A violin plot accurately reflects distribution/concentration of data. Here's [a good animation](https://blog.bioturing.com/2018/05/16/5-reasons-you-should-use-a-violin-graph/) (the first graphic).
 
 3. When would we want to use a violin plot over a box plot?
 
