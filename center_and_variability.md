@@ -47,15 +47,20 @@ We will be examining the bill lengths of Gentoo penguins (again). Make sure you 
 
 3. For this question, let's introduce 30 new observations, all with petal length `48.1`
    1. Does the range change, and if so, what is the new range?
+   
+      The range doesn't change.
+   
    2. How will this affect the mean, median, and mode?
 
-
+      This will increase the mean, median, and mode.
 
 4. Based on your answers above, when do new data points affect the range?
 
-
+   New datapoints affect the range when they are either less than the previous lower bound or greater than the previous upper bound.
 
 5. What does the range tell us about a dataset, and what _doesn't_ it tell us?
+
+   The range tells us about the dataset's spread.   
 
 ### Percentiles and Quartiles
 1. What is a **percentile**, and is it a single point or an interval?
