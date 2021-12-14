@@ -106,7 +106,7 @@ Shown below is a **box plot** of Gentoo bill lengths.
    
    2. The `1.5IQR` rule can give a false positive; that is, a datapoint that is marked as an outlier even when it isn't one. Describe an example where that happens.
 
-      
+      The `1.5IQR` rule is usually functional, but when a dataset is very skewed or multimodal, then you can have problems.
 
 Shown below is a **violin plot** for the same data.
 
