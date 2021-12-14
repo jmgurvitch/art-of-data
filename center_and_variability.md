@@ -64,12 +64,23 @@ We will be examining the bill lengths of Gentoo penguins (again). Make sure you 
 
 ### Percentiles and Quartiles
 1. What is a **percentile**, and is it a single point or an interval?
+
+   A percentile is a point at which some percent of the data is less than it. For example, the 99th percentile is a point at which 99% of the data is less that where you are.
+
 2. What is a **quartile**?
+
+   Each of four equal groups into which a population can be divided according to the distribution of values of a particular variable.
+
 3. Why is the median sometimes called the **2nd quartile (Q2)**?
+
+   The Median divides data into two equal parts. Quartile divides data into four equal parts. Thus, the value of the median is equal to the value of the second quartile.
+
 4. Examine the following table. What can you tell about the _shape_ of this distribution?
     | Q0 | Q1 | Q2 | Q3 | Q4 |
     |:--:|:--:|:--:|:--:|:--:|
     |0|4|7|9|10|
+
+   The data is skewed left.
 
 ### IQR and Basic Visualizations
 Shown below is a **box plot** of Gentoo bill lengths.
