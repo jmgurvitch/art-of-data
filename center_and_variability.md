@@ -143,4 +143,4 @@ Shown below is a **violin plot** for the same data.
 
 5. Why might **z-score** be a better measure than deviation?
 
-   Deviation is relative and dependent on each datapoint, which makes it hard to compare datapoints both within and across datasets. In contrast, a z-score is an absolute metric based on the standard deviation and is thus much more conducive to cross-comparison.
+   Deviation is relative and dependent on each datapoint's value, which makes it hard to compare datapoints both within and across datasets. In contrast, a z-score is an absolute metric based on the standard deviation--distance from the mean--and is thus much more conducive to cross-comparison.
