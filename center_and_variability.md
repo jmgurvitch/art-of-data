@@ -122,11 +122,26 @@ Shown below is a **violin plot** for the same data.
 
 3. When would we want to use a violin plot over a box plot?
 
-
+   When we want to look at distribution.
 
 ### Deviation
 1. What is a datapoint's **deviation** in relation to the dataset mean?
+
+   Deviation is a measure of difference between the observed value of a variable and some other value, often that variable's mean. The sign of the deviation reports the direction of that difference (the deviation is positive when the observed value exceeds the reference value).
+
+
 2. What is a dataset's **standard deviation**?
+
+   It is the measure of variability between datapoints. It is a measure of center.
+
 3. What is the standard deviation of Gentoo bill lengths?
+
+   3.08. We use `std()` from pandas.
+
 4. What is an observation's **z-score**, and how is that related to a dataset's standard deviation?
+
+   The z-score is the number of standard deviations by which the value of a raw score is above or below the mean value of what is being observed or measured. Raw scores above the mean have positive z-scores, while those below the mean have negative z-scores. For example, if your mean is 0 and your standard deviation is 1, then a datapoint at 2 will be 2 standard deviations away from the mean and thus have a z-score of 2.
+
 5. Why might **z-score** be a better measure than deviation?
+
+   
