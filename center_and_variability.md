@@ -129,7 +129,6 @@ Shown below is a **violin plot** for the same data.
 
    Deviation is a measure of difference between the observed value of a variable and some other value, often that variable's mean. The sign of the deviation reports the direction of that difference (the deviation is positive when the observed value exceeds the reference value).
 
-
 2. What is a dataset's **standard deviation**?
 
    It is the measure of variability between datapoints. It is a measure of center.
@@ -144,4 +143,4 @@ Shown below is a **violin plot** for the same data.
 
 5. Why might **z-score** be a better measure than deviation?
 
-   
+   Deviation is relative and dependent on each datapoint, which makes it hard to compare datapoints both within and across datasets. In contrast, a z-score is an absolute metric based on the standard deviation and is thus much more conducive to cross-comparison.
